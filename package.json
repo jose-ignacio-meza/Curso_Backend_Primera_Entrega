@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "express": "^4.21.1",
+    "node": "^20.18.0",
+    "nodemon": "^3.1.7",
+    "router": "^1.3.8"
+  },
+  "name": "backend-entrega",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/app.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev":"node ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jose Ignacio Meza",
+  "license": "ISC",
+  "description": ""
+}
